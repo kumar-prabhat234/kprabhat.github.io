@@ -1,0 +1,106 @@
+html {
+    background-color: red
+}
+
+body {
+    width: 1200px;
+    margin: 4 auto;
+    background-color: white;
+    padding: 10px 40px 20px 20px;
+    border: 2px dashed red;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: orange;
+}
+
+.topnav a {
+    float: left;
+    color: green;
+    text-align: right;
+    padding: 5px 60px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+
+.topnav a.active {
+    background-color: black;
+    color: red;
+}
+
+img {
+    float: right;
+    width: 700px;
+    border: 3px solid #73AD21;
+    padding: 5px;
+}
+
+p {
+    color: blue;
+    font-size: 16px;
+    border: 1px solid red;
+
+}
+
+address {
+    color: black;
+    font-style: italic;
+    font-size: 18px;
+    border: 2px solid red;
+    width: 400px;
+}
+
+.info {
+    font-size: 16px;
+    border: 2px solid red;
+    width: 470px;
+}
+
+.dar {
+    font-size: 16px;
+    border: 2px solid red;
+    float: left;
+}
+
+.nai {
+    font-size: 16px;
+    border: 2px solid red;
+    float: left;
+}
+
+.mus {
+    font-size: 16px;
+    border: 2px solid red;
+    float: left;
+}
+
+li {
+    color: brown;
+    font-size: 16px
+}
+
+h1 {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    border: 5px solid brown;
+    text-shadow: 10px 5px 1px yellow;
+    box-shadow: inset 10px 5px 20px rgba(10, 10, 10, 15), inset -10px -200px 5px rgba(255, 255, 255, 0.5);
+
+}
+
+h2 {
+    color: green;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+table,th,td {
+    border: 1px solid black;
+    width: 100%;
+}
